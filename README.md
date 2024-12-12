@@ -1,6 +1,6 @@
-Install Zookeeper and Kafka Server and Place in C:/
-For windows use .bat (Batch file)
-For linux use .sh(Shell script)
+Install Zookeeper and Kafka Server and Place in C:/                  
+For windows use .bat (Batch file)                               
+For linux use .sh(Shell script)                                 
 
 Zookeeper:
 1.  C:\kafka_2.12-3.9.0\bin\windows
